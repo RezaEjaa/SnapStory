@@ -1,0 +1,310 @@
+[
+  {
+    "id": "love-letter",
+    "canvasWidth": 1536,
+    "canvasHeight": 1024,
+    "slots": [
+      {
+        "x": 206,
+        "y": 127,
+        "w": 575,
+        "h": 411,
+        "mask": "/frames/masks/love-letter-0.png"
+      },
+      {
+        "x": 833,
+        "y": 99,
+        "w": 529,
+        "h": 411,
+        "mask": "/frames/masks/love-letter-1.png"
+      },
+      {
+        "x": 678,
+        "y": 534,
+        "w": 515,
+        "h": 340,
+        "mask": "/frames/masks/love-letter-2.png"
+      }
+    ]
+  },
+  {
+    "id": "blue-memory",
+    "canvasWidth": 1024,
+    "canvasHeight": 1536,
+    "slots": [
+      {
+        "x": 352,
+        "y": 164,
+        "w": 374,
+        "h": 264,
+        "mask": "/frames/masks/blue-memory-0.png"
+      },
+      {
+        "x": 350,
+        "y": 481,
+        "w": 378,
+        "h": 271,
+        "mask": "/frames/masks/blue-memory-1.png"
+      },
+      {
+        "x": 348,
+        "y": 805,
+        "w": 379,
+        "h": 267,
+        "mask": "/frames/masks/blue-memory-2.png"
+      },
+      {
+        "x": 342,
+        "y": 1128,
+        "w": 380,
+        "h": 253,
+        "mask": "/frames/masks/blue-memory-3.png"
+      }
+    ]
+  },
+  {
+    "id": "cherry-film",
+    "canvasWidth": 1024,
+    "canvasHeight": 1536,
+    "slots": [
+      {
+        "x": 621,
+        "y": 395,
+        "w": 327,
+        "h": 367,
+        "mask": "/frames/masks/cherry-film-0.png"
+      },
+      {
+        "x": 147,
+        "y": 368,
+        "w": 430,
+        "h": 797,
+        "mask": "/frames/masks/cherry-film-1.png"
+      },
+      {
+        "x": 600,
+        "y": 836,
+        "w": 345,
+        "h": 429,
+        "mask": "/frames/masks/cherry-film-2.png"
+      }
+    ]
+  },
+  {
+    "id": "sweetheart",
+    "canvasWidth": 1024,
+    "canvasHeight": 1536,
+    "slots": [
+      {
+        "x": 123,
+        "y": 192,
+        "w": 486,
+        "h": 587,
+        "mask": "/frames/masks/sweetheart-0.png"
+      },
+      {
+        "x": 94,
+        "y": 881,
+        "w": 462,
+        "h": 375,
+        "mask": "/frames/masks/sweetheart-1.png"
+      },
+      {
+        "x": 594,
+        "y": 848,
+        "w": 343,
+        "h": 466,
+        "mask": "/frames/masks/sweetheart-2.png"
+      }
+    ]
+  },
+  {
+    "id": "rosy-diary",
+    "canvasWidth": 1024,
+    "canvasHeight": 1536,
+    "slots": [
+      {
+        "x": 119,
+        "y": 295,
+        "w": 521,
+        "h": 447,
+        "mask": "/frames/masks/rosy-diary-0.png"
+      },
+      {
+        "x": 725,
+        "y": 464,
+        "w": 208,
+        "h": 243,
+        "mask": "/frames/masks/rosy-diary-1.png"
+      },
+      {
+        "x": 709,
+        "y": 731,
+        "w": 207,
+        "h": 236,
+        "mask": "/frames/masks/rosy-diary-2.png"
+      },
+      {
+        "x": 129,
+        "y": 825,
+        "w": 492,
+        "h": 473,
+        "mask": "/frames/masks/rosy-diary-3.png"
+      },
+      {
+        "x": 696,
+        "y": 992,
+        "w": 205,
+        "h": 247,
+        "mask": "/frames/masks/rosy-diary-4.png"
+      }
+    ]
+  },
+  {
+    "id": "classic-strip",
+    "canvasWidth": 1024,
+    "canvasHeight": 1536,
+    "slots": [
+      {
+        "x": 359,
+        "y": 183,
+        "w": 373,
+        "h": 256,
+        "mask": "/frames/masks/classic-strip-0.png"
+      },
+      {
+        "x": 358,
+        "y": 503,
+        "w": 372,
+        "h": 256,
+        "mask": "/frames/masks/classic-strip-1.png"
+      },
+      {
+        "x": 357,
+        "y": 825,
+        "w": 371,
+        "h": 260,
+        "mask": "/frames/masks/classic-strip-2.png"
+      },
+      {
+        "x": 364,
+        "y": 1143,
+        "w": 366,
+        "h": 262,
+        "mask": "/frames/masks/classic-strip-3.png"
+      }
+    ]
+  },
+  {
+    "id": "blush-booth",
+    "canvasWidth": 1024,
+    "canvasHeight": 1536,
+    "slots": [
+      {
+        "x": 624,
+        "y": 385,
+        "w": 310,
+        "h": 330,
+        "mask": "/frames/masks/blush-booth-0.png"
+      },
+      {
+        "x": 131,
+        "y": 374,
+        "w": 438,
+        "h": 848,
+        "mask": "/frames/masks/blush-booth-1.png"
+      },
+      {
+        "x": 626,
+        "y": 813,
+        "w": 294,
+        "h": 328,
+        "mask": "/frames/masks/blush-booth-2.png"
+      }
+    ]
+  },
+  {
+    "id": "film-roll",
+    "canvasWidth": 1536,
+    "canvasHeight": 1024,
+    "slots": [
+      {
+        "x": 115,
+        "y": 440,
+        "w": 442,
+        "h": 331,
+        "mask": "/frames/masks/film-roll-0.png"
+      },
+      {
+        "x": 568,
+        "y": 386,
+        "w": 419,
+        "h": 324,
+        "mask": "/frames/masks/film-roll-1.png"
+      },
+      {
+        "x": 1002,
+        "y": 337,
+        "w": 440,
+        "h": 315,
+        "mask": "/frames/masks/film-roll-2.png"
+      }
+    ]
+  },
+  {
+    "id": "after-the-show",
+    "canvasWidth": 1024,
+    "canvasHeight": 1536,
+    "slots": [
+      {
+        "x": 656,
+        "y": 323,
+        "w": 269,
+        "h": 329,
+        "mask": "/frames/masks/after-the-show-0.png"
+      },
+      {
+        "x": 137,
+        "y": 397,
+        "w": 466,
+        "h": 731,
+        "mask": "/frames/masks/after-the-show-1.png"
+      },
+      {
+        "x": 678,
+        "y": 745,
+        "w": 259,
+        "h": 309,
+        "mask": "/frames/masks/after-the-show-2.png"
+      }
+    ]
+  },
+  {
+    "id": "paper-memories",
+    "canvasWidth": 1536,
+    "canvasHeight": 1024,
+    "slots": [
+      {
+        "x": 698,
+        "y": 176,
+        "w": 694,
+        "h": 373,
+        "mask": "/frames/masks/paper-memories-0.png"
+      },
+      {
+        "x": 158,
+        "y": 175,
+        "w": 542,
+        "h": 666,
+        "mask": "/frames/masks/paper-memories-1.png"
+      },
+      {
+        "x": 735,
+        "y": 572,
+        "w": 451,
+        "h": 337,
+        "mask": "/frames/masks/paper-memories-2.png"
+      }
+    ]
+  }
+]
